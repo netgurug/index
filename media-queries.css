@@ -1,0 +1,326 @@
+@media only screen and (min-width:1001px) and (max-width:1100px)
+ {
+.whatwebox {width: 800px;}
+ul.whatwebrewnav li.mright33 {margin-right:15px !important;}
+.WWB_ImgSliderHoldr {width:800px; height:auto;}
+.WWB_ImgSliderHoldr .wwb_imgholder {width:400px;}
+.WWB_ImgSliderHoldr .wwb_imgholder img {width:100%;}
+.WWB_ImgSliderHoldr .wwb_contholder {padding-top:0;}
+#SeePortfolioHolder {display:none;}
+.whatwebox .btn_next {right:36px;}
+	
+}
+
+
+@media only screen and (min-width:651px) 
+{
+.newteam ul li:nth-child(3n+3) {margin-right:0;}
+}
+
+@media only screen and (max-width:1000px) {
+.mobilemenu {display:block;}
+.mobilewrap {display:block; background:#451f0a;}
+	
+#ContentHolder .NavHolder ul.MainNav li a{font-size:11px;}
+	
+#SocialMediaHolder {display:none;}
+#ContentHolder {width:90%; /*background-image:url(../images/mobile-logo.png); background-position:center 0px; background-size:270px;*/ margin:0 auto;}
+.blankdiv {width:287px; margin:0px auto;}
+.blankdiv img {width:287px; height:144px;}
+/*#ContentHolder .HomeHolder {display:none;}*/
+.mobilebanners {display:block;}
+#FooterHolder {overflow:hidden; /*height:50px;*/ position:relative; bottom:0;}
+#FooterHolder .FooterInnerHolder {width:92%; margin:0 auto; text-align:center;}
+#FooterHolder .FooterInnerHolder .copyright {float:none !important; margin:0;}
+#PageHolder.mbot115 {margin-bottom:0 !important;}
+.CharInnerImg {display:none;}
+/*#ContentHolder .InnerContentHolder {padding:0 !important; width:100% !important;}*/
+.InfoHolder {width:95% !important;}
+.TeamHolder {width:100%;}
+.TeamHolder .MembersHolder {width:50%; margin-right:0 !important;}
+.newteam ul li {width:30%; margin-right:4%; margin-top:0 !important;}
+#SeePortfolioHolder {display:none;}
+	
+ul.whatwebrewnav li{float:none; width:122px; display:block; margin:0 auto;}
+	
+.whatwebox {width:100%;}
+.whatwebox ul.whatwebrewnav {text-align:center;width:280px; margin:0 auto; float:none !important; padding:0; display:none;}
+.whatwebox ul.whatwebrewnav li {float:none; display:inline-block;}
+.whatwebox ul.whatwebrewnav li.mright33 {margin-right:0 !important;}
+ul.whatwebrewnav li a, ul.whatwebrewnav li a.wwb_selected {width:100%; float:left; text-align:left;}
+ul.whatwebrewnav li a br {display:none;}
+ul.whatwebrewnav li a.valpad, ul.whatwebrewnav li a.valign, ul.whatwebrewnav li a.valpad3 {height:122px !important; padding:0 !important;}
+ul.whatwebrewnav li a:hover {}
+.WWB_ImgSliderHoldr {width:100%; height:auto; margin:20px 0 0 0;}
+.WWB_ImgSliderHoldr .wwb_imgholder {display:none;}
+.WWB_ImgSliderHoldr .wwb_contholder {float:left; padding:0; width:100%; height:auto;}
+.whatwebox .btn_next, .whatwebox .btn_pre {display:none;}
+.whatwebox .dropdown {display:block;}
+.whatwebox ul.whatwebrewnav li {float:left; width:90%; height:auto; padding:10px 5%; background-color:#4b1d08; border-bottom:1px solid #a64a1a;} 
+
+.OurWorkHolder {width:100%;}
+.OurWorkHolder .OurWorkPanelHolder {display:none;}
+.InfoHolder.mobilespace {padding-bottom:40px !important;}
+.mobilework {display:none;}
+.DL_Map {display:none;}
+.ContactLeftHolder, .ContactRightHolder, .ContactRightHolder {float:none; width:100%;}
+.ContactLeftHolder .LeftContactContent {border:none; padding-bottom:0; padding-right:0;}
+.ContactLeftHolder .LeftContactInfo {background-size:40px; padding-top:0; padding-left:50px; float:none; padding-right:40px;}
+.ContactRightHolder {padding-top:10px;}
+.formtitle br {display:none;}
+.ContactRightHolder .ContactFormHolder {width:100%;}
+/*.ContactFormHolder .form-row {margin-right:3%; width:30%;}*/
+	
+.form-row .input-box input {height:auto; line-height:25px; display:block; width:100%;}
+.form-row .input-box input:focus {outline:none;}
+.form-row .input-box.bgnone {background:none !important; border:none; width:auto;}
+.ContactFormHolder .form-row.nomar {width:auto; margin-right:0;}
+	
+.form-row .textareafeedback-box textarea {height:100px; line-height:25px; display:block; width:100%;}
+.form-row .textareafeedback-box textarea:focus {outline:none;}
+.mbot17{margin-left:-12px;}
+	
+.sociallinks{bottom:13px;}
+}
+
+
+@media screen and (min-width:320px) and (max-width:480px)
+{
+	
+.browntxt{padding:0 5px;}	
+	
+#ContentHolder .NavHolder{display:none;}
+
+#ContentHolder .HomeHolder {display:block; width:96%; padding:20px 2% 0 2%; margin:0 auto;}
+#ContentHolder .HomeHolder img{width:100%; height:auto;}
+.form-row .input-box {background-image:none; /*background-color:#e8d8c5; border:2px solid #91724b;*/ height:auto; padding:5px 5%; width:100%; box-sizing: border-box; -webkit-border-radius: 10px; border-radius:10px; margin-left:-19px;}
+.form-row .input-box .btn{margin-left:19px;}
+.form-row .textareafeedback-box {background:none; /*background-color:#e8d8c5; border:2px solid #91724b;*/ height:auto; padding:5px 5%; width:100%; box-sizing: border-box; -webkit-border-radius: 10px; border-radius:10px; margin-left:-19px;}
+.ContactFormHolder .form-row {width:100%; margin-right:0; margin:0 auto;}
+
+#PageHolder {background:none;}
+
+.headerhold {width:100%; background-image:url(../images/mobile-logo.png); background-position:center 0px; background-size:270px; margin:0 auto;}
+
+.btposition{/*position:absolute !important;*/ position:relative !important; bottom:0 !important;}
+
+#FooterHolder{background:#451f0a url(../images/MainFooterBG.jpg) repeat-x left top;}
+#FooterHolder .FooterInnerHolder{height:auto;}
+#FooterHolder .FooterInnerHolder ul.fotnav{float:none; width:auto; text-align:center; margin:0 auto; padding:0 0 0 0;}
+#FooterHolder .FooterInnerHolder ul.fotnav li{float:none; display:block; margin:0 auto; border-right:none; line-height:28px;}
+#FooterHolder .FooterInnerHolder ul.fotnav li:last-child{padding-bottom:40px;}
+#FooterHolder .FooterInnerHolder ul.fotnav li a{font-size:13px;}
+.tpad11 {padding-top: 11px !important;}
+
+.span12{display:block !important;}
+
+.TeamMemberHolder{float:none;}
+.TeamMemberHolder .MemberInfo{width:auto; padding:20px 2% !important; /*text-align:justify;*/ letter-spacing:0.3px;}
+.TeamHolder{display:none;}
+#owl-demo .item{margin:0  !important; padding:20px 0 0 0 !important; -webkit-border-radius:12px !important; -moz-border-radius:12px !important; border-radius:12px !important;}
+
+.TeamMemberHolder .MemberInfo a{top:15px; display:block; text-align:right;}
+.TeamMemberHolder .MemberInfo a.inpoint{display:inline; margin-top:0px;}
+.TeamMemberHolder .MemberInfo a::after{border-bottom:none;}
+
+
+.mbot51 {margin-bottom: 50px !important;}
+
+.mbot30 {margin-bottom: 30px !important;}
+
+.WhatwebrewHolder{display:none;}
+
+
+/*#FooterHolder .FooterInnerHolder ul.fotnav{display:none;}*/
+#FooterHolder .FooterInnerHolder ul.mobfoot{display:block;}
+
+#FooterHolder .FooterInnerHolder ul.mobfoot{float:none; width:auto; text-align:center; margin:0 auto; padding:0 0 0 0;}
+#FooterHolder .FooterInnerHolder ul.mobfoot li{float:none; display:block; margin:0 auto; border-right:none; line-height:28px; color:#b6905f; font-size:13px;}
+#FooterHolder .FooterInnerHolder ul.mobfoot li:last-child{padding-bottom:40px;}
+#FooterHolder .FooterInnerHolder ul.mobfoot li a{font-size:13px;}
+
+
+.mainfoot{display:block;}
+.deskfoot{display:none;}
+}
+
+@media screen and (min-width:481px) and (max-width:650px)
+{
+.sociallinks{right:10px;}
+.sociallinks ul li{width:auto !important;}
+}
+	
+
+
+@media screen and (min-width:481px) and (max-width:600px)
+{
+.form-row .input-box {background-image:none; /*background-color:#e8d8c5; border:2px solid #91724b;*/ height:auto; padding:5px 5%; width:100%; box-sizing: border-box; -webkit-border-radius: 10px; border-radius:10px; margin-left:-25px;}
+.form-row .input-box .btn{margin-left:25px;}
+.form-row .textareafeedback-box {background:none; /*background-color:#e8d8c5; border:2px solid #91724b;*/ height:auto; padding:5px 5%; width:100%; box-sizing: border-box; -webkit-border-radius: 10px; border-radius:10px; margin-left:-25px;}
+.ContactFormHolder .form-row {width:100%; margin-right:0; margin:0 auto;}	
+
+}
+
+
+@media screen and (min-width:601px) and (max-width:700px)
+{
+.form-row .input-box {background-image:none; /*background-color:#e8d8c5; border:2px solid #91724b;*/ height:auto; padding:5px 5%; width:100%; box-sizing: border-box; -webkit-border-radius: 10px; border-radius:10px; margin-left:-25px;}
+.form-row .input-box .btn{margin-left:25px;}
+.form-row .textareafeedback-box {background:none; /*background-color:#e8d8c5; border:2px solid #91724b;*/ height:auto; padding:5px 5%; width:100%; box-sizing: border-box; -webkit-border-radius: 10px; border-radius:10px; margin-left:-25px;}
+
+.ContactFormHolder .form-row {width:100%; margin-right:0; margin:0 auto;}	
+}
+
+
+@media screen and (min-width:701px) and (max-width:768px)
+{
+.form-row .input-box {background-image:none; /*background-color:#e8d8c5; border:2px solid #91724b;*/ height:auto; padding:5px 5%; width:100%; box-sizing: border-box; -webkit-border-radius: 10px; border-radius:10px; margin-left:-35px;}
+.form-row .input-box .btn{margin-left:35px;}
+.form-row .textareafeedback-box {background:none; /*background-color:#e8d8c5; border:2px solid #91724b;*/ height:auto; padding:5px 5%; width:100%; box-sizing: border-box; -webkit-border-radius: 10px; border-radius:10px; margin-left:-35px;}
+.ContactFormHolder .form-row {width:100%; margin-right:0; margin:0 auto;}	
+}
+
+
+@media screen and (min-width:481px) and (max-width:768px)
+{
+.browntxt{padding:0 5px;}	
+	
+#ContentHolder .NavHolder{display:none;}	
+#ContentHolder .HomeHolder {display:block; width:96%; padding:200px 2% 67px 2%; margin:0 auto;}
+#ContentHolder .HomeHolder img{width:400px; height:auto;}
+
+
+#PageHolder {background:none;}
+
+.btposition{/*position:absolute !important;*/ position:relative !important; bottom:0 !important;}
+
+#FooterHolder{background:#451f0a url(../images/MainFooterBG.jpg) repeat-x left top;}
+#FooterHolder .FooterInnerHolder{height:auto;}
+#FooterHolder .FooterInnerHolder ul.fotnav{float:none; width:100%; text-align:center;}
+#FooterHolder .FooterInnerHolder ul.fotnav li{float:none; display:block; margin:0 auto; border-right:none; line-height:28px;}
+#FooterHolder .FooterInnerHolder ul.fotnav li:last-child{padding-bottom:40px;}
+#FooterHolder .FooterInnerHolder ul.fotnav li a{font-size:13px;}
+.tpad11 {padding-top: 15px !important;}
+
+.mbot51 {margin-bottom: 50px !important;}	
+
+.mainfoot{display:block;}
+.deskfoot{display:none;}
+
+.TeamHolder{padding-bottom:200px;}
+
+.headerhold {width:90%; background-image:url(../images/mobile-logo.png); background-position:center 0px; background-size:270px; margin:0 auto;}
+
+.mbot30 {margin-bottom: 30px !important;}
+
+}
+
+
+
+@media screen and (min-width:320px) and (max-width:768px)
+{
+
+.ContactFormHolder .form-row {width:100%;}
+#ContentHolder .InnerContentHolder {padding:0 !important; width:95% !important; margin:0 auto; float:none;}
+.ContactFormHolder .form-row {margin-right:0; width:100%;}
+	
+.lightboxcontent{top:100% !important;}
+.wbx a.closee{margin-right:0px !important;}
+.h2bbor{font-size:25px;}
+.remodal-close{top:5px !important;}
+	
+.infoot2{position:relative !important; bottom:0 !important;}
+
+.span12 {display: block !important; padding-bottom:200px !important;}
+.span13 {display: block !important; padding-bottom:220px !important;}
+
+
+}
+
+
+@media screen and (min-width:769px) and (max-width:1024px)
+{
+
+#ContentHolder .NavHolder{display:block;}		
+#ContentHolder .InnerContentHolder{width:90%; padding:62px 5% 0 5%; margin:0 auto;}
+.ContactLeftHolder, .ContactRightHolder, .ContactRightHolder{float:left; width:45%;}
+
+.ContactLeftHolder{border-right: 1px solid #8b6d46;}
+.ContactRightHolder{float:right;}
+.form-row{width:100%;}
+#ContentHolder .HomeHolder {display:block; width:87%; padding:130px 2% 0 2%; margin:0 auto;}
+#ContentHolder .HomeHolder img{width:90%; height:auto;}
+
+.width893{width:90% !important; margin:0 auto !important; padding:62px 5% 5% 5% !important;}
+.form-row .textareafeedback-box{width:294px; margin-left:12px;}
+
+.infoot2{position:relative !important; bottom:0 !important;}
+
+.btposition{/*position:absolute !important;*/ position:relative !important; bottom:0 !important;}
+#FooterHolder .FooterInnerHolder .copyright{float:left !important; font-size:11px;}
+#FooterHolder .FooterInnerHolder ul.fotnav li a{font-size:11px;}
+
+.mobilewrap {display:none;}
+.headerhold {width:100%;}
+.headerhold .NavHolder{display:block;}
+#SocialMediaHolder{display:block;}
+.blankdiv {width:287px; height:auto; float:left; background-position:center 0px; background-size:270px; margin:0 auto;}
+.blankdiv img {width:287px; height:auto;}
+.headerhold .NavHolder ul.MainNav li a{font-size:11px;}
+
+}
+
+
+@media only screen and (max-width:800px)
+{
+.mobilework .content ul li {width:33%;}	/*.ContactFormHolder .form-row {width:47%;}*/
+}
+
+
+@media only screen and (max-width:650px) 
+{
+#moibleslideshow {width: 100%; height:450px;}
+.newteam ul li {width:46%; margin-right:0%; margin-top:0 !important;}
+.newteam ul li:nth-child(even) {margin-right:0; float:right;}	
+h2 {font-size:50px;}
+.lightboxcontent .BlankFrameTeam {display:block; width:50%; background-size:100% auto; float:none; margin:0 auto;}
+.lightboxcontent .BlankFrameTeam img{width:100%; height:auto;}
+.infotxt{width:96%; padding:0 2%; margin-top:0px; margin:0 auto;}
+.lightboxcontent .wbx {width:90%; padding:5% 2% 5% 2%;}
+	
+.wbx p {margin:0; width:100% !important;}
+.wbx a.closee {margin-bottom: 0; margin-right: -10px; margin-top: 7px;}
+.mobilework .content ul li {width:50%; margin-bottom:30px;}	
+.mobilework .content ul li:nth-child(odd) {clear:both;}
+.mobilework .content ul li a .btn_work {width:100%; background-position:center;}
+.formtitle {font-size:22px; margin-top:10px;}
+.span12{display:block !important; /*padding-bottom:200px;*/}
+	
+}
+
+
+@media only screen and (max-width:500px)
+ {
+#moibleslideshow {width: 100%; height:330px;}
+.newteam ul li {width:100%; margin-right:0%; margin-top:0 !important;}	
+h2 {font-size:35px;}
+.newteam ul li .TeamMemberHolder .BlankFrameTeam map {display:none;}
+	
+.formtitle {font-size:20px;}
+.ContactLeftHolder .LeftContactInfo {height:auto;}
+	
+.span12{display:block !important; /*padding-bottom:200px;*/}
+.TeamMemberHolder{float:none; -webkit-border-radius: 12px; -moz-border-radius: 12px; border-radius: 12px; background:#d9b884; padding-top:30px;}
+.TeamMemberHolder .MemberInfo{width:auto; padding:20px 5% 0 5% !important; background:#d9b884;}
+.TeamHolder{display:none;}
+#owl-demo .item{margin:0  !important; padding:20px 0 0 0 !important; -webkit-border-radius:12px !important; -moz-border-radius:12px !important; border-radius:12px !important;}
+
+}
+
+
+@media only screen and (max-width:400px)
+ {
+	#moibleslideshow {width: 100%; height:250px;}
+	h2 {font-size:29px;}
+	.mobilework .content ul li {width:100%; margin-bottom:15px;}	
+}
